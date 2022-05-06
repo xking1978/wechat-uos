@@ -1,4 +1,6 @@
 # wechat-uos
+github上没找到2.1.3版的deb包，只好自己动手丰衣足食了
+
 没有任何更改，用makedeb生成自https://aur.archlinux.org/wechat-uos.git
 
 需要自行按官网https://electronjs.org/
