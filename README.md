@@ -5,7 +5,7 @@ github上没找到2.1.3版的deb包，只好自己动手丰衣足食了
 
 需要自行按官网https://electronjs.org/
 
-用npm install electron或yarn global electron以全局方式安装electron
+用npm install electron或yarn global add electron以全局方式安装electron
 
 安装electron中遇到的问题请查官网说明文档
 
