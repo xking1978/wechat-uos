@@ -1,8 +1,12 @@
 # wechat-uos
 没有任何更改，用makedeb生成自https://aur.archlinux.org/wechat-uos.git
 
-需要自行按官网用npm或yarn以全局方式安装electron
+需要自行按官网https://electronjs.org/
+
+用npm install electron或yarn global electron以全局方式安装electron
+
+安装electron中遇到的问题请查官网说明文档
 
 其它需要的依赖debian会自动安装，在debian11上运行良好
 
-注：如果以前安装的是用makefile或其它方式打的包，最好先卸载再安装，否则容易发生异常，处理也小麻烦。
+注：如果以前安装的是用makefile或其它方式打的包，最好先卸载再安装，否则容易发生异常，处理也有点麻烦。
