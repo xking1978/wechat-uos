@@ -3,6 +3,8 @@ github上没找到2.1.3版的deb包，只好自己动手丰衣足食了
 
 没有任何更改，用makedeb生成自https://aur.archlinux.org/wechat-uos.git
 
+软件的退出要点任务栏里的退出，只点窗口的叉叉是退不了的。
+
 需要自行按官网https://electronjs.org/
 
 用npm install electron或yarn global add electron以全局方式安装electron
