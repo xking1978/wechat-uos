@@ -9,7 +9,7 @@ github上没找到2.1.3版的deb包，只好自己动手丰衣足食了
 
 用npm install electron或yarn global add electron以全局方式安装electron
 
-安装electron中遇到的问题请查官网说明文档
+安装electron中遇到的问题请查官网说明文档，我装的是18.2版本，运行正常
 
 其它需要的依赖debian会自动安装，在debian11上运行良好
 
