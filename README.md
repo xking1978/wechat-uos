@@ -1,3 +1,5 @@
+debian12可以安装星光商店进行正常更新，这里就不再更新了
+------------------------------
 # wechat-uos
 最新2.1.8版：https://theshare.lanzoue.com/iDUIk1a2q8qj
 
